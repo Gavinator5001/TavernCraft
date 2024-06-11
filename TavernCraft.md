@@ -1,4 +1,4 @@
-## TavernCraft - unknown
+## TavernCraft - 2.0
 
   * [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) (by [sbom_xela](https://www.curseforge.com/members/sbom_xela/projects))
   * [AmbientSounds 6](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) (by [CreativeMD](https://www.curseforge.com/members/CreativeMD/projects))
